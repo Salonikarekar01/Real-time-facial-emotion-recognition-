@@ -1,0 +1,20 @@
+# Python virtual environment
+venv/
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+
+# Model files
+*.h5
+*.keras
+
+# Datasets
+CK+/
+CK_split/
+Dataset/
+image_sentiment_FER_Dataset/
