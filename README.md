@@ -55,6 +55,24 @@ The system supports:
 ├── evaluate.py
 └── requirements.txt
 
+## 🧰 Setup
+
+1. Clone the repo:
+   git clone https://github.com/Salonikarekar01/Real-time-facial-emotion-recognition-.git
+
+2. Create virtual environment:
+   python -m venv venv
+   source venv/bin/activate
+   pip install -r requirements.txt
+
+3. Run the app:
+   streamlit run app/app.py
+
+### 📦 Datasets
+- CK+ — facial expression dataset
+- RAF-DB — real-world annotated facial dataset
+- FER dataset for extended testing
+ 
 ## ⚠️ Notes
 
 - Datasets are **not included** due to size constraints.
